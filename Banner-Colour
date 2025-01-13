@@ -1,0 +1,47 @@
+campaignTrail_temp.candidate_image_url = "CANDIDATE.PNG LINK";
+campaignTrail_temp.running_mate_image_url = "VEEP.PNG LINK";
+campaignTrail_temp.candidate_last_name = "Candidate";
+campaignTrail_temp.running_mate_last_name = "Veep";
+const style_overwrite = document.createElement("style");
+style_overwrite.innerHTML = 
+`#campaign_sign {
+  background-color: #;
+  border-color: #;
+}
+#state_info h3 {
+  background-color: #;
+}
+#overall_result h3 {
+  background-color: #;
+}`
+;
+document.head.appendChild(style_overwrite);
+
+
+
+
+let style = document.createElement('style');
+style.type = 'text/css';
+style.id = 'dynamic-style';
+
+
+style.innerHTML = `
+  .inner_window_question h3 {
+    background-color: #;
+  }
+  .overlay_window h3 {
+    background-color: #;
+  }
+`;
+
+
+document.head.appendChild(style);
+
+
+
+
+
+
+
+
+
