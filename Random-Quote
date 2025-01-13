@@ -1,3 +1,5 @@
+// Credit: Vordaze (SVGTCT)
+
 function displayRandomQuote() {
     quotes = [
         "Put Quotes Here"
