@@ -1,0 +1,1 @@
+This here is mainly for my personal use making mods, to access this code quickly. It's public so I can share it with people if I'm helping them make mods. I try to give credit to where I took code from if I didn't make it myself, if you think I have not credited you please let me know, and my apologies in advance if that's the case.
