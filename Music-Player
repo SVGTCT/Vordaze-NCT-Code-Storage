@@ -1,5 +1,5 @@
 // Initialise custom music
-// Credit: Taken From 2020 Republican Chaos Mod
+// Credit: Environmental_Cap104 ─ 2020 Republican Chaos
 
 $("#music_player")[0].children[0].style.display="none"
 $("#music_player")[0].children[1].style.display="none"
