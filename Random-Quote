@@ -1,0 +1,15 @@
+function displayRandomQuote() {
+    quotes = [
+        "Put Quotes Here"
+    ];
+
+    customquote = quotes[Math.floor(Math.random() * quotes.length)];
+    corrr = `<h2>Game Title</h2><font id='wittyquote' size='3.5' color='white'><em>${customquote}</em></font>`;
+    
+}
+
+// Call the function every 20 seconds
+setInterval(displayRandomQuote, 20000);
+
+// Display the first quote immediately
+displayRandomQuote();
