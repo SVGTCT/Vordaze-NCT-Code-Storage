@@ -214,7 +214,15 @@ var soundtracks = {
       {
         "name": "Let it Go (Acoustic Cover) - Hailee Steinfeld",
         "url": "https://audio.jukehost.co.uk/aVQebEz8DstpZE4l1ZYfg8eamhcQZyfM"
-      },   
+      },  
+      {
+        "name": "Swing Low, Sweet Chariot - Etta James",
+        "url": "https://audio.jukehost.co.uk/pyBtTz7Vu5HSrQBMZtsJlqDVISv8lIDh"
+      }, 
+      {
+        "name": "The Blue Danube Waltz - Johann Strauss II",
+        "url": "https://audio.jukehost.co.uk/T7U3jSdBPaSpgKxucQdvnRv2SqcjCUjd"
+      }, 
     ]
   }
 }
